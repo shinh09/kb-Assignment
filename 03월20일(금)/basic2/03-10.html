@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="app">
+      예금액 <input type="text" v-model="amount" />
+      <!-- 경고표시 아이콘 -->
+      <img
+        v-show="amount<0"
+        src="https://contactsvc.bmaster.kro.kr/img/error.png"
+        title="마이너스는 허용하지 않습니다."
+        style="width: 15px; height: 15px; vertical-align: middle"
+      />
+    </div>
+
+    <script type="text/javascript" src="https://unpkg.com/vue"></script>
+    <script type="text/javascript">
+      var model = { message: 'Hello Vue3!' };
+      var vm = Vue.createApp({
+        name: 'APP',
+        data() {
+          return { amount: '' };
+        },
+      }).mount('#app');
+    </script>
+  </body>
+</html>
