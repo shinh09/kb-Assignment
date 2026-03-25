@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .buttonColor {
+        background-color: aqua;
+        color: black;
+      }
+      .buttonLayout {
+        text-align: center;
+        width: 120px;
+      }
+      .staticBorder {
+        border: khaki dashed 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <input type="checkbox" v-model="ismyLayout" />레이아웃 적용여부<br />
+      <button
+        class="statiBorder"
+        :class="[myColor, ismyLayout ? myLayout : '']"
+      >
+        버튼
+      </button>
+      <script src="https://unpkg.com/vue"></script>
+      <script>
+        var vm = Vue.createApp({
+          name: 'App',
+          data() {
+            return {
+              myColor: 'buttonColor',
+              myLayout: 'buttonLayout',
+              ismyLayout: false,
+            };
+          },
+        }).mount('#app');
+      </script>
+    </div>
+  </body>
+</html>
+
+<!--  
+
+:class="[myColor, ismyLayout ? myLayout : '']" 
+
+여기안에 빈 문자열을 가르키는 '' 공백이 ""면 안됨..
+  
+  -->
