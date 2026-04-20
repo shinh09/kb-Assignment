@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/04월17일(금)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04월20일(월)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4월16일(수)" isTestSource="false" packagePrefix="pratice_0415" />
     </content>
