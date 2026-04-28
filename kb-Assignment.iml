@@ -18,6 +18,12 @@
       <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/inheritance/p08" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/inheritance/p09" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/inheritance/p10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/interface/p01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/interface/p02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/interface/p03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/interface/p04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/interface/p05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/oop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/oop/p01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/oop/p02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/oop/p03" isTestSource="false" />
@@ -28,6 +34,17 @@
       <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/oop/p08" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/oop/p09" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/oop/p10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection/p01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection/p02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection/p03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection/p04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection/p05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection/p06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection/p07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection/p08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection/p09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04월23일(목)/java_60_real_exam_set (1)/src/student/todo/collection/p10" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/04월23일(목)" />
     </content>
     <orderEntry type="inheritedJdk" />
